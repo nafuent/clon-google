@@ -1,2 +1,2 @@
 # clon-google 🌐
-Con de google  con HTML y CSS
+Clon de google  con HTML y CSS
